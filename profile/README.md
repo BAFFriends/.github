@@ -29,3 +29,6 @@
 > 2. 각 기능이 완성되면 develop으로 병합
 > 3. 일정 시점에서 develop → main로 merge
 > 4. main는 항상 배포 가능한 상태 유지
+
+## ⚪️ 시연 영상
+https://youtu.be/l3YTwNZOLt8
