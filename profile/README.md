@@ -3,6 +3,14 @@
 
 ![image](https://github.com/user-attachments/assets/69be6c43-c307-4a0b-a46b-562453d94e3e)
 
+## 🏆 8th UMC HACKATHON 대상 수상 🏆
+### Android
+> 김강현 김경록 손주완
+
+### Spring Boot
+> 김나경 이정한 최승재     
+
+<br>
 
 ## ⚪️ 배프란?
 공고와 이력서를 AI로 정밀 분석하여 장애유형·직무·조건에 맞는 정확한 매칭을 제공하는 서비스입니다.  
@@ -20,6 +28,7 @@
 - 장애유형별 적합한 공고 분류 기대
 - 이미지 공고는 LLM을 통한 텍스트 변환(OCR) 및 자동 요약 처리를 통해 직접 읽는 시간 절감, 시각장애인도 이미지 공고 확인 가능  
 
+<br>
 
 ## ⚪️ Git Flow
 
@@ -29,6 +38,8 @@
 > 2. 각 기능이 완성되면 develop으로 병합
 > 3. 일정 시점에서 develop → main로 merge
 > 4. main는 항상 배포 가능한 상태 유지
+
+<br>
 
 ## ⚪️ 시연 영상
 https://youtu.be/l3YTwNZOLt8
